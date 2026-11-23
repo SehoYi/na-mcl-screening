@@ -1,0 +1,11 @@
+# macOS
+._*
+.DS_Store
+
+# outputs of run_all.sh and cn4_percolation.py
+out/
+cn4_bottleneck.csv
+
+# Python
+__pycache__/
+*.pyc

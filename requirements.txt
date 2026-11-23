@@ -1,0 +1,7 @@
+# Versions used for the results in the manuscript. The screening funnel
+# reproduces on these; pymatgen in particular changes structure-matching and
+# symmetry tolerances between releases, so pin it when checking the numbers.
+ase==3.29.0
+numpy==2.4.4
+pymatgen==2026.5.4
+scipy==1.17.1
