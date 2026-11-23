@@ -130,7 +130,7 @@ parameter. Sweep the cutoff with `--rcut_sweep`.
 
 ## Citing
 
-If you use this code, please cite the manuscript. Archived releases carry a DOI
-through Zenodo.
+If you use this code, please cite the manuscript and this archived release:
+https://doi.org/10.5281/zenodo.24460375
 
 Released under the MIT License.
